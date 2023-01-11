@@ -1,0 +1,44 @@
+.container{
+    position: absolute;
+    background-image: url('https://thumbs.dreamstime.com/b/restaurant-16866439.jpg');
+    background-size: cover;
+    height: 700px;
+    width: 1500px;
+}
+
+h2{
+    color:red;
+    text-align: center;
+    text-decoration: initial;
+    font-style: oblique;
+    text-decoration: underline;
+    font-size: 40px;
+
+}
+a:link,a:visited{
+background-size: auto;
+background-color: gray;
+color: white;
+padding: 10px 20px;
+text-align: center;
+display: inline-block;
+margin-left: 70px;
+margin-left: 20px;
+margin-left: 9px;
+width: 160px; 
+}
+a:hover,a:active{
+    background-color: coral;
+}
+h1{
+    font-style: oblique;
+    font-size: 40px;
+    text-transform: uppercase;
+    text-decoration-color: white;
+    text-shadow: 10cm;
+    text-align: center;
+    margin-top: 20px;
+    text-decoration: underline;
+    color: yellow;
+    
+}

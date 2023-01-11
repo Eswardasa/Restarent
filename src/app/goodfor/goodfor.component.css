@@ -1,0 +1,21 @@
+
+.rrr{
+    background-image: url('https://t3.ftcdn.net/jpg/04/59/27/90/360_F_459279004_n37eOfpjQxFkcPWtiayxiU9HOohfVDeZ.jpg');
+    position: absolute;
+    margin-left: 600px;
+    background-repeat: no-repeat ;
+    margin-top: 80px;
+    width: 100%;
+ }
+
+h1{
+    color:yellow;
+    text-decoration: underline;
+    font-style: oblique;
+    margin-left: 130px;
+ }
+ ol li{
+     color: greenyellow;
+     font-size: 20px;
+ }
+ 
